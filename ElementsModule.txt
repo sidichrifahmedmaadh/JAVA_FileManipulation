@@ -1,0 +1,8 @@
+TC111:Langue étrangère anglais (Niveau 1):4:3		
+TC112:Techniques de Communication:2:2
+TC113:Introduction à la gestion industrielle:2:2
+TC114:Initiation au projet-créativité entrepreneuriat:4:3
+TC121:Mathématiques-Probabilité et Statistique:4:2
+TC122:Informatique:6:4
+TC123:Méthodes numériques:4:2
+TC124:Recherche opérationnelle:4:2
